@@ -1,0 +1,18 @@
+table {
+  border: 2px 0px solid lightblue;
+}
+table tr {
+  border: 2px 0px solid lightblue;
+}
+
+fieldset {
+  background-color: lightblue;
+  border-radius: 2%;
+  align-items: center;
+}
+
+h2 {
+  color: blue;
+}
+
+/*# sourceMappingURL=style.css.map */
